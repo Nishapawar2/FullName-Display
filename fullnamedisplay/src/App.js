@@ -32,7 +32,7 @@ function App() {
           }}
         />
         <br />
-        <button>Submit</button>
+        <button type="submit">Submit</button>
       </form>
       {isSubmit ? (
         <p>
