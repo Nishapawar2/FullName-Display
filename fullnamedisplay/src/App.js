@@ -39,7 +39,7 @@ function App() {
           Full Name: {fname} {lname}
         </p>
       ) : (
-        <p></p>
+        <></>
       )}
     </div>
   );
